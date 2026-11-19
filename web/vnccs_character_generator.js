@@ -14,7 +14,7 @@ const QI2_EMOTION_BBOX_DEFAULTS = Object.freeze({
     drop_size: 10,
 });
 const DEFAULT_DATA = {
-    nsfw_enabled: true,
+    nsfw_enabled: false,
     emotion_pairs: [],
     common: {
         target_size: 1024,
